@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="/Users/Zebi/Downloads/soot-trunk.jar"/>
-	<classpathentry kind="lib" path="/Users/Zebi/Downloads/jasmin-develop.zip"/>
-	<classpathentry kind="lib" path="/Users/Zebi/Downloads/heros-develop.zip"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/III_WiSe2017/PTA/project/sample_project/SimplePDG/SootTutorial/ant-1.9.2.jar"/>
+	<classpathentry kind="lib" path="F:/III_WiSe2017/PTA/project/sample_project/SimplePDG/SootTutorial/java_cup.jar"/>
+	<classpathentry kind="lib" path="F:/III_WiSe2017/PTA/project/sample_project/SimplePDG/SootTutorial/rt.jar"/>
+	<classpathentry kind="lib" path="F:/III_WiSe2017/PTA/project/sample_project/SimplePDG/SootTutorial/soot-2.5.0.jar"/>
+	<classpathentry kind="lib" path="F:/III_WiSe2017/PTA/project/sample_project/SimplePDG/SootTutorial/sootclasses-trunk.jar"/>
+	<classpathentry kind="lib" path="F:/III_WiSe2017/PTA/project/sample_project/SimplePDG/SootTutorial/sootclasses-trunk-jar-with-dependencies.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
